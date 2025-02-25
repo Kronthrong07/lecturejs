@@ -1,7 +1,22 @@
+//data type in js
+
+//String
 console.log('ABC...')
 console.log("ABC...")
+//number
+console.log(123.66)
 console.log(123456)
+//object
+console.log({fullname: 'Natthawut',age: 20})
+//Boolean
 console.log(true)
+console.log(false)
+//Array
+console.log([1,2,3,4,5,6,7,8,9,10,'Hello...',ture])
+//null
+console.log(null)
+//undefined
+console.log(undefined)
 
 
 //ตัวแปร
