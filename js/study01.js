@@ -14,9 +14,9 @@ console.log(false)
 //Array
 console.log([1,2,3,4,5,6,7,8,9,10,'Hello...',ture])
 //null
-console.log(null)
+console.log(null) //ไม่มีค่า แต่ยังมีค่าว่าง
 //undefined
-console.log(undefined)
+console.log(undefined) //ไม่ได้กำหนดค่า ไม่มีค่า
 
 
 //ตัวแปร
